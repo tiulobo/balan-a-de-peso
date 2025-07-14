@@ -1,0 +1,42 @@
+/*css reset*/
+* {
+   margin: 0;
+   padding: 0;
+}
+
+ body{
+    font-family: "Roboto", sans-serif;
+    line-height: 2.0;
+    background-color: rgba(255, 248, 220, 0.281);
+      text-align: center;
+
+
+
+ }
+ body label{
+    margin: 5px, auto;
+    padding: 5px;
+    color: rgb(4, 28, 134);
+ }
+ body input {
+     background-color: azure;
+     border: 0.9;
+ }
+ header p {
+    margin: 5px, auto;
+    padding: 5px;
+    background-color: rgb(245, 191, 191);
+    text-align: center;
+    
+
+ }
+ header h1{
+    color:rgb(119, 0, 0);
+ }
+ button {
+     color: rgb(241, 104, 104) ;
+     
+
+ }
+ 
+
